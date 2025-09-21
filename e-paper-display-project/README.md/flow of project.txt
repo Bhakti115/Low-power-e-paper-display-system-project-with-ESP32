@@ -1,0 +1,28 @@
+ E-Paper Display Project
+
+📌 Overview
+This project displays custom text on a **1.54" E-Paper Display** using ESP32 / Arduino UNO.  
+It demonstrates low-power operation with display refresh and hibernate mode.
+
+📌Hardware Used
+- ESP32 or Arduino UNO
+- Waveshare 1.54" E-Paper Display (GDEH0154D67)
+- Jumper wires and breadboard
+
+📌 Software
+Libraries required:
+- `GxEPD2_BW`
+- `Adafruit_GFX`
+- `SPI`
+
+📌How to Run
+1. Clone or download this repository.
+2. Open `src/main.ino` in Arduino IDE.
+3. Install required libraries in Arduino IDE.
+4. Upload to your ESP32 or Arduino UNO.
+5. Watch your e-paper display update!
+
+📌Output Preview
+
+📌License
+This project is open-source for learning purposes.
